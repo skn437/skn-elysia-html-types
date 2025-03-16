@@ -1,0 +1,37 @@
+{
+  "name": "@best-skn/elysia-html-types",
+  "description": "A Simple Type Definition Extension Library For Elysia.js HTML",
+  "version": "1.0.0",
+  "main": "",
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skn437/skn-elysia-html-types.git"
+  },
+  "keywords": [
+    "elysia",
+    "type",
+    "library",
+    "html",
+    "jsx",
+    "typescript",
+    "bun"
+  ],
+  "author": {
+    "name": "SKN Shukhan",
+    "email": "skn437physx@gmail.com",
+    "url": "https://skn.best"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  },
+  "peerDependencies": {
+    "@elysiajs/html": "^1.2.0",
+    "elysia": "^1.2.25"
+  }
+}
