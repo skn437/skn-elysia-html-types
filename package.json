@@ -1,7 +1,7 @@
 {
   "name": "@best-skn/elysia-html-types",
   "description": "A Simple Type Definition Extension Library For Elysia.js HTML",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "",
   "types": "index.d.ts",
   "files": [
